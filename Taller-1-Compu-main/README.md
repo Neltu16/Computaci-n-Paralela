@@ -1,7 +1,6 @@
 # Taller-1-Computacion Paralela
 
-"Dado un polinomio cualquiera, se pide encontrar aproximaciones de los ceros o raíces de una
-función real. Usando el método de Newton-Raphson."
+"Desarrollar un programa que permita encontrar las raíces reales y complejas de un polinomio."
 
  <br>   
   
